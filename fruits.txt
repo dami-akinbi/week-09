@@ -1,0 +1,12 @@
+avocado
+pineapple
+apple
+banana
+carrot
+pear
+strawberry
+cabbage
+orange
+mango
+cherry
+acorn

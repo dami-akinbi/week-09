@@ -1,0 +1,7 @@
+cabbage
+lettuce
+carrot
+potato
+watermelon
+beetroot
+sugarcane
